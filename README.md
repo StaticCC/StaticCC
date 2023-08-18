@@ -28,7 +28,7 @@ This page serves as a place to store code for current/old projects, code that I 
 
 
 ## Current Status
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top">
 
 - 🔭 I’m currently working on [MyCafee](https://apps.apple.com/us/app/mycafe%C3%A9/id6454725108)  
   
@@ -42,7 +42,7 @@ This page serves as a place to store code for current/old projects, code that I 
 - ⚡ Fun fact: I need about 3 monsters to keep me going throughout the day  
 
 
-</td><td valign="top" width="100%">
+</td><td valign="top">
 
 
 
@@ -79,24 +79,6 @@ This page serves as a place to store code for current/old projects, code that I 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
 
 <br/>  
 
