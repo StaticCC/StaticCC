@@ -28,7 +28,7 @@ This page serves as a place to store code for current/old projects, code that I 
 
 
 ## Current Status
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [MyCafee](https://apps.apple.com/us/app/mycafe%C3%A9/id6454725108)  
   
@@ -42,7 +42,7 @@ This page serves as a place to store code for current/old projects, code that I 
 - ⚡ Fun fact: I need about 3 monsters to keep me going throughout the day  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
