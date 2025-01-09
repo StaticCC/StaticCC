@@ -1,6 +1,6 @@
 Hi there, I'm StaticCG!<br>
 <a href="https://github.com/staticcc" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" /> </a> <a href="https://www.linkedin.com/in/cory-green58/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-🖥️ About Me<br>
+<br>🖥️ About Me<br>
 I'm Cory, and I love coding to create useful and engaging applications. I started programming at 12, making simple text games on my computer. Those early projects led me to pursue a career in tech.
 <br>
 🌐 Expanding Horizons<br>
