@@ -4,7 +4,7 @@ Hi there, I'm StaticCG!
 I'm Cory, and I love coding to create useful and engaging applications. I started programming at 12, making simple text games on my computer. Those early projects led me to pursue a career in tech.
 <br><br>
 🌐 Expanding Horizons<br>
-I began with Windows Command Prompt scripts and gradually moved on to developing more complex projects and games, often with help from Stack Overflow. As life got busier, it's been challenging to dedicate as much time to my projects, and I haven't kept up with them as much as I'd like.
+I began with Windows Command Prompt scripts and gradually moved on to developing more complex projects and games, often with help from Stack Overflow. 😂 
 <br><br>
 ⌨️ What I'm Up To<br>
 This page is where I store code for my current and past projects, as well as collaborations. I'm open to working with others to improve and expand these projects.<br>
